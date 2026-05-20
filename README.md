@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28052510/README.md)
 # B2B Scout
 
 AI-drevet B2B salgsintelligens for Norge — Brreg, regnskap, nyheter og salgsbrief.
