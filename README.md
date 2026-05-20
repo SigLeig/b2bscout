@@ -1,9 +1,9 @@
-[README.md](https://github.com/user-attachments/files/28052449/README.md)
+[README.md](https://github.com/user-attachments/files/28052510/README.md)
 # B2B Scout
 
-B2B salgsintelligens for Norge. Søk opp et prospekt og få en AI-generert salgsbrief basert på Brreg, regnskap og dagsaktuelle nyheter.
+AI-drevet B2B salgsintelligens for Norge — Brreg, regnskap, nyheter og salgsbrief.
 
-![B2B Scout](assets/logo.png)
+![B2B Scout logo](assets/logo.png)
 
 ## Funksjoner
 
@@ -18,8 +18,8 @@ B2B salgsintelligens for Norge. Søk opp et prospekt og få en AI-generert salgs
 ### 1. Klon repoet
 
 ```bash
-git clone https://github.com/<brukernavn>/b2b-scout.git
-cd b2b-scout
+git clone https://github.com/SigLeig/b2bscout.git
+cd b2bscout
 ```
 
 ### 2. Opprett virtuelt miljø
@@ -75,7 +75,7 @@ Appen åpnes på [http://localhost:8501](http://localhost:8501).
 ## Prosjektstruktur
 
 ```
-b2b-scout/
+b2bscout/
 ├── app.py              # Streamlit-app
 ├── config.py           # Miljøvariabler
 ├── assets/logo.png     # Logo
@@ -95,4 +95,4 @@ AI-generert innhold bør verifiseres før bruk i salg.
 
 ## Lisens
 
-Privat / egen bruk med offentlige datakilder under respektive vilkår.
+MIT — se [LICENSE](LICENSE).
